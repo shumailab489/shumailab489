@@ -90,6 +90,18 @@
 
 # Certificates of International Hackathons 🏆:
 
+<p float="left">
+</a>
+      &nbsp; &nbsp;
+   <a href="https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/agriview-tools/?tab=project">
+     <img src="NASA Space Apps Challenge Certificate.jpg" width="390">
+  </a>
+  </a>
+      &nbsp; &nbsp;
+   <a href="https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/922336966584381">
+     <img src="certificate for Meta Hacker Cup - 2024 Round 1_.jpg" width="390">
+  </a>
+     
   
 
 
