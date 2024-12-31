@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I turned my love for math into creating AI solutions that save lives!**
 - 
-# 🌟 Connect with me:
+#  Connect with me🌟:
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; padding: 0; margin: 0; font-size: 0; gap: 10px;">
   <a href="mailto:shumailab489@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -71,7 +71,7 @@
   </a>
 </p>
 
-# ⚡GitHub Stats⚡:
+# GitHub Stats⚡:
 <p align="center">
     <a href="https://github.com/shumailab489">
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shumailab489&show_icons=true&rank_icon=github&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -84,7 +84,11 @@
      <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=shumailab489&theme=algolia&hide_border=true" /> 
    </a>  
  </p 
+ 
+#
 
+
+# Certificates of International Hackathons 🏆:
 
   
 
