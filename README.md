@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=800000&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shumaila+Batool!;" />
 
 <h3 align="center">A Passionate Biomedical Engineer from Pakistan</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shumailab489&label=Profile%20views&color=0e75b6&style=flat" alt="shumailab489" /> </p>
 
@@ -15,10 +16,11 @@
 - 📫 How to reach me **shumailab489@gmail.com**
 
 - ⚡ Fun fact **I turned my love for math into creating AI solutions that save lives!**
+- 
 # 🌟 Connect with me:
-<p align="center" style="display: flex; justify-content: center; gap: 0; flex-wrap: wrap; padding: 0; margin: 0;">
+<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; padding: 0; margin: 0; font-size: 0; gap: 10px;">
   <a href="mailto:shumailab489@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/shumailab489" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -55,7 +57,6 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   </a>
-  
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
   </a>
@@ -69,8 +70,6 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
   </a>
 </p>
-
-
 
 # ⚡GitHub Stats⚡:
 <p align="center">
