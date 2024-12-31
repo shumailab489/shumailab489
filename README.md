@@ -16,7 +16,7 @@
 - 📫 How to reach me **shumailab489@gmail.com**
 
 - ⚡ Fun fact **I turned my love for math into creating AI solutions that save lives!**
-- 
+
 #  Connect with me🌟:
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; padding: 0; margin: 0; font-size: 0; gap: 10px;">
   <a href="mailto:shumailab489@gmail.com" target="_blank">
@@ -35,7 +35,6 @@
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
   </a>
 </p>
-
 # Languages and Tools💻⚒️:
  
 <p align="center">
@@ -100,6 +99,27 @@
       &nbsp; &nbsp;
    <a href="https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/922336966584381">
      <img src="certificate for Meta Hacker Cup - 2024 Round 1_.jpg" width="390">
+  </a>
+  </a>
+      &nbsp; &nbsp;
+   <a href="https://www.linkedin.com/posts/shumaila489_achievementunlocked-silverbrick-calico2024-activity-7269733050005999616-exKK?utm_source=share&utm_medium=member_desktop">
+     <img src="CALICO_FALL_24 Certificate.jpeg" width="390">
+  </a>
+  </a>
+      &nbsp; &nbsp;
+   <a href="https://www.linkedin.com/posts/shumaila489_%F0%9D%97%98%F0%9D%98%85%F0%9D%97%B0%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%BB%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%BB%F0%9D%97%B0%F0%9D%97%B2%F0%9D%97%BA%F0%9D%97%B2%F0%9D%97%BB-activity-7273972366429347840-c58f?utm_source=share&utm_medium=member_desktop">
+     <img src="Shumaila Batool ICMSF Certificate.jpg" width="390">
+  </a>
+  
+  </a>
+      &nbsp; &nbsp;
+   <a href="https://lablab.ai/event/falcon-hackathon/edu4all/find-n-speak">
+     <img src="Certificate of Falcon Hackathon.JPG" width="390">
+  </a>
+  </a>
+      &nbsp; &nbsp;
+   <a href="https://lablab.ai/event/llama-3-ai-hackathon/llama-hash/ai-powered-writing-assistant">
+     <img src="Certificate of Llama 3 Hackathon.JPG" width="390">
   </a>
      
   
