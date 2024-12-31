@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shumailab489@gmail.com**
 
-- ⚡ Fun fact **I turned my love for math into creating AI solutions that save lives!**
+- ⚡ Fun fact: **I turned my love for math into creating AI solutions that save lives!**
 
 #  Connect with me🌟:
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; padding: 0; margin: 0; font-size: 0; gap: 10px;">
