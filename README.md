@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **AI in healthcare, Python development, or optimization algorithms.**
 
-- 📫 How to reach me **shumailab489@gmail.com**
+- 📫 How to reach me **shumaila.batool@wum.edu.pk**
 
 - ⚡ Fun fact: **I turned my love for math into creating AI solutions that save lives!**
 
